@@ -1,8 +1,5 @@
 # Build LLMs
 
-## asd    
-
-
 
 ## Stage 1 - Fine tune QWEN 2.5 on hindi Q/A data. 
 - [Here is perplexity's pathway for going about this](https://www.perplexity.ai/search/i-have-a-dataset-of-question-a-.KEF.xg1RBalbdmizMWJVQ)
