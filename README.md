@@ -10,5 +10,5 @@
     - [x] How to tokenize hindi ?
         - Using QWEN tokenizer for now, can checkout other tokenizers later
 - No code approaches
-    - https://huggingface.co/docs/autotrain/en/llm_finetuning
-    - https://github.com/hiyouga/LLaMA-Factory
+    - [ ] https://huggingface.co/docs/autotrain/en/llm_finetuning
+    - [ ] https://github.com/hiyouga/LLaMA-Factory
