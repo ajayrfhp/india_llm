@@ -12,3 +12,13 @@
 - No code approaches
     - [ ] https://huggingface.co/docs/autotrain/en/llm_finetuning
     - [ ] https://github.com/hiyouga/LLaMA-Factory
+
+
+## Resources
+- [Hindi BERT from 2020](https://mapmeld.medium.com/teaching-hindi-to-electra-b11084baab81)
+    - Data - HIndMonoCorp, Oscar, Hindi CommonCrawl
+    - Tokenizer -  (anoopkunchukuttan.github.io/indic_nlp_library/)
+    - Model - Google electrca
+    - Hindi IMDB reviews - https://github.com/sid573/Hindi_Sentiment_Analysis
+- [Airvata](https://ai4bharat.github.io/airavata/)
+    - https://arxiv.org/pdf/2401.15006
